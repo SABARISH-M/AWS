@@ -26,7 +26,7 @@ def procurement_preduiction(input_data):
 def main():
     
     #giving a title
-    st.title('Procuremnt Fruad Web App')
+    st.title('Procurement Fruad Web App')
     
     #getting the input data from the user
     
